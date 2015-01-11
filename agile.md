@@ -1,13 +1,18 @@
 # Agile Software Development
 
 http://en.wikipedia.org/wiki/Scrum_%28software_development%29
+The Agile movement proposes alternatives to traditional project management. Agile approaches are typically used in software development to help businesses respond to unpredictability. There is a great overlap between Rails, the main technology we use to build web apps, and agile. Ruby on Rails apps allow for a very fast way to market and are an excellent prototyping tool. Next to prototyping, they also have proven to be reliable and scalable.
 
+## Scrum
 
-## Roles
+We follow an agile way of development called Scrum. It is a framework for incremental product development that consists of self-organizing team. Since we keep our team delibirately small, it allows is to move fast and work in lean product increments. Scrum’s incremental, iterative approach trades the traditional phases of “waterfall” development for the ability to develop a subset of high-value features first, incorporating feedback sooner.
 
+![Scrum: Incremental Development](/img/scrum_incremental_development.png)
+
+In a Scrum way of working, we have three roles:
+- Product Owner
 - Dev team
-- Project (or Product) Manager
-- SCRUM Master (or Product Owner)
+- Scrum Master
 
 ## Sprints
 
