@@ -4,11 +4,11 @@ Version control is a system that records changes to a file or set of files over 
 
 For a Version Control System (VCS) we use [Git](http://git-scm.com/). Git is used systmatically across arguably the largest reposotiry of the world's code at [GitHub](http://git-scm.com/) and was developed by the creator of the Linux operating system Linus Torvalds (among others). Git gives us enough control to manage software, isn't opiniated about how we do things, and still offers a lot of flexibility. 
 
-# How do we manage technical change in our system?
+#How do we manage technical change in our system?
 
 Specifically for code we follow the well understood [git branching flow](http://nvie.com/posts/a-successful-git-branching-model/). 
 
-## Why is this so important to the successful delivery to a software project?
+##Why is this so important to the successful delivery to a software project?
 
 
 
